@@ -1,6 +1,3 @@
-![](images/screeenshot.jpg)
-
-
 # Xylophone app  🎹
  Simple App to practice dart programming concepts and use of the Flutter Packages
 
