@@ -1,5 +1,5 @@
 # Xylophone app  🎹
- Simple App to practice dart programming concepts and use of the Flutter Packages
+ Simple App to practice Dart programming concepts and use of the Flutter Packages
 
 ## implelminting 
 
